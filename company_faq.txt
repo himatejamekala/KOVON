@@ -1,0 +1,140 @@
+BrightCart Support FAQ
+Company: BrightCart Online Retail
+Last Updated: 2026
+
+Welcome to the BrightCart Customer Support Knowledge Base. This document contains
+answers to the most common questions our customers ask, covering refunds, delivery,
+membership benefits, account cancellation, support contact hours, and premium
+customer support rules. Please read the relevant section carefully before reaching
+out to a live agent, as most questions can be answered here.
+
+SECTION 1: REFUND POLICY
+
+BrightCart offers a 30-day return and refund window on most products, starting from
+the date of delivery. To be eligible for a refund, the item must be unused, in its
+original packaging, and accompanied by the original invoice or order confirmation
+email. Once we receive and inspect the returned item, refunds are processed within
+5 to 7 business days to the original payment method.
+
+Certain categories are non-refundable, including perishable goods, personalized or
+customized items, digital downloads, and gift cards. If a product arrives damaged
+or defective, customers are eligible for a full refund or a free replacement,
+regardless of the 30-day window, as long as the damage is reported within 48 hours
+of delivery with photographic evidence.
+
+Refund timelines vary slightly by membership tier. Gold members receive refunds
+within 5 business days, while Silver members should expect refunds within 7
+business days. Platinum members are eligible for expedited refunds, typically
+processed within 48 hours, along with priority handling of their return request.
+
+To initiate a refund, customers can log into their BrightCart account, navigate to
+"My Orders," select the relevant order, and click "Request Refund." Alternatively,
+customers may contact support directly with their order number.
+
+SECTION 2: DELIVERY TIMELINES
+
+Standard delivery across metro cities typically takes 3 to 5 business days from the
+date of order confirmation. For non-metro and rural areas, delivery may take 5 to 8
+business days. Express delivery is available at checkout for an additional fee and
+guarantees delivery within 1 to 2 business days in most serviceable areas.
+
+Membership tier affects delivery speed and cost. Silver members receive standard
+shipping rates with no additional benefits. Gold members receive free standard
+shipping on all orders above a minimum cart value. Platinum members receive free
+express shipping on all orders, with no minimum cart value requirement, and their
+orders are automatically prioritized in our fulfillment queue.
+
+Delivery delays can occasionally occur due to weather conditions, courier partner
+disruptions, regional holidays, or high-demand sale periods. In such cases,
+customers will receive proactive email and SMS notifications with updated delivery
+estimates. If an order is delayed beyond 10 business days without update, customers
+are encouraged to contact support for investigation and possible compensation in
+the form of store credit.
+
+Order tracking is available at all times through the "Track Order" section of the
+BrightCart app or website, which provides real-time courier location updates once
+the package has been dispatched from our fulfillment center.
+
+SECTION 3: MEMBERSHIP BENEFITS
+
+BrightCart offers three membership tiers: Silver, Gold, and Platinum. Membership is
+free to join, but Gold and Platinum tiers require a minimum annual spend or a paid
+subscription fee to unlock additional perks.
+
+Silver members are the default tier for all new customers. Benefits include access
+to seasonal sales, standard delivery, and a 7-day refund processing window.
+
+Gold members unlock free standard shipping on qualifying orders, faster refund
+processing within 5 business days, early access to flash sales 24 hours before
+Silver members, and a dedicated Gold customer support queue with reduced wait
+times.
+
+Platinum members receive the full suite of BrightCart benefits: free express
+shipping with no minimum order value, refunds processed within 48 hours, first
+access to all sales and new product launches, a dedicated Platinum relationship
+manager, and eligibility for our premium customer support line, which includes
+24/7 phone and chat access as described in Section 6.
+
+Membership tier is automatically reviewed every 12 months based on account
+spending and activity, and customers may be upgraded or, in rare cases of
+inactivity, moved back to a lower tier. Customers can check their current
+membership tier and progress toward the next tier from their account dashboard.
+
+SECTION 4: ACCOUNT CANCELLATION
+
+Customers who wish to cancel their BrightCart account can do so at any time by
+navigating to Account Settings and selecting "Close My Account." Before
+cancellation is finalized, customers must complete or cancel any pending orders,
+as open orders cannot be processed once an account is closed.
+
+Cancelling an account will permanently delete saved addresses, payment methods,
+wishlist items, and order history after a 30-day grace period. During this grace
+period, customers may reactivate their account by logging back in, which will
+restore all account data. After 30 days, account data is permanently deleted in
+accordance with our data retention policy and cannot be recovered.
+
+Cancelling an account does not automatically cancel active subscriptions, such as
+Platinum membership auto-renewal. Customers must separately cancel any active
+subscription from the "Subscriptions" tab to avoid future charges.
+
+If a customer has store credit or an unused gift card balance at the time of
+cancellation, that balance is forfeited and cannot be refunded once the account is
+permanently closed after the grace period. We recommend customers use any
+remaining store credit before initiating account cancellation.
+
+SECTION 5: SUPPORT CONTACT HOURS
+
+Standard customer support is available via email and live chat from 9:00 AM to
+9:00 PM, Monday through Saturday, and 10:00 AM to 6:00 PM on Sundays and public
+holidays. Email queries are typically answered within 24 hours during business
+days.
+
+Phone support is available from 9:00 AM to 8:00 PM, Monday through Friday, for all
+members. Response times on phone support vary by membership tier, with Gold
+members receiving priority queue placement.
+
+Support can be reached through the "Help" section of the BrightCart app, via email
+at support@brightcart.example, or by phone using the number listed on the customer
+dashboard.
+
+SECTION 6: PREMIUM CUSTOMER SUPPORT RULES
+
+Premium customer support is an exclusive benefit reserved for Platinum members.
+Platinum members have access to a 24/7 dedicated support line, available every day
+of the year including holidays, via both phone and live chat.
+
+Premium support requests are handled by a specialized team trained to resolve
+complex issues, including expedited refunds, custom delivery arrangements, and
+priority escalation to warehouse and logistics teams. Platinum members are also
+assigned a named relationship manager who can be contacted directly for
+account-related questions, rather than going through the general support queue.
+
+Gold and Silver members do not have access to the 24/7 premium line but can
+request escalation of urgent issues, which will be reviewed by a supervisor within
+24 hours. Gold members receive priority placement in the standard support queue,
+while Silver members are served on a first-come, first-served basis.
+
+To verify eligibility for premium support, agents check the customer's membership
+tier in the account system before granting access to the dedicated Platinum
+support line. Attempting to access premium support without a Platinum membership
+will result in the request being redirected to standard support channels.
