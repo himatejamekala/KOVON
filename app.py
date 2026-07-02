@@ -79,21 +79,24 @@ def get_user(user_id: int):
 
 
 def load_vectorstore():
-    from ingest import ingest_documents
-
-    if not os.path.exists(PERSIST_DIR):
-        ingest_documents()   # build chroma_db automatically
-
+    """Load the persisted Chroma vector store. If it doesn't exist, create it."""
     from langchain_community.vectorstores import Chroma
     from langchain_community.embeddings import HuggingFaceEmbeddings
+    from ingest import ingest
 
     embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
-    return Chroma(
+    # Create the vector store if it doesn't exist
+    if not os.path.exists(PERSIST_DIR):
+        print("Vector store not found. Creating it...")
+        ingest()
+
+    vectorstore = Chroma(
         persist_directory=PERSIST_DIR,
-        embedding_function=embeddings
+        embedding_function=embeddings,
     )
 
+    return vectorstore
 
 def retrieve_context(vectorstore, query: str, k: int = 3, score_threshold: float = 0.8):
     """
